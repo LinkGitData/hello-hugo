@@ -1,4 +1,4 @@
-Hello Hugo
+Hello Hugo (linklin-lab)
 ----------
 
 Run Locally (with drafts on):
